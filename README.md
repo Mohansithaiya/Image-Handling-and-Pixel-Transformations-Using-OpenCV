@@ -261,7 +261,7 @@ plt.show()
 
 4.Merge the H, S, V channels and display:
 
-![alt text](<IMG-11.png>)
+![alt text](<IMG-11.jpg>)
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
