@@ -214,48 +214,50 @@ plt.show()
 - ### **i)** Read and Display an Image.  
    1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
 
-  ![alt text](IMG-01.png)
+   ![alt text](IMG-01.jpg)
 
   2.Save image as PNG and display:
 
-  ![alt text](IMG-02.png)
+   ![alt text](IMG-02.jpg)
 
   3.Cropped image:
 
-  ![alt text](<IMG-03.png>)
+   ![alt text](IMG-03.jpg)
 
   4.Resize and flip Horizontally:
 
-  ![alt text](<IMG-04.png>)
+   ![alt text](IMG-04.jpg)
 
   5.Read 'Apollo-11-launch.jpg' and  Display the final annotated image:
 
-  ![alt text](IMG-05.png)
+   ![alt text](IMG-05.jpg)
 
 - ### **ii)** Adjust Image Brightness.
 
 1.Create brighter and darker images and display:
 
-![alt text](<IMG-06.png>)
+ ![alt text](IMG-06.jpg)
 
 - ### **iii)** Modify Image Contrast.  
 1. Modify contrast using scaling factors 1.1 and 1.2:
 
-![alt text](<IMG-07.png>)
+ ![alt text](IMG-07.jpg)
 
 - ### **iv)** Generate Third Image Using Bitwise Operations.
 
 1.Split 'Boy.jpg' into B, G, R components and display:
 
-![alt text](<IMG-08.png>)
+![alt text](IMG-08.jpg)
 
 2.Merge the R, G, B channels and display:
 
-![alt text](<IMG-09.png>)
+ ![alt text](IMG-09.jpg)
+
+ 
 
 3.Split the image into H, S, V components and display:
 
-![alt text](<IMG-10.png>)
+ ![alt text](IMG-10.jpg)
 
 4.Merge the H, S, V channels and display:
 
